@@ -1,0 +1,5 @@
+package com.ntth.socialnetwork.entity;
+
+public class User {
+
+}

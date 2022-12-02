@@ -1,0 +1,13 @@
+package com.ntth.socialnetwork.entity;
+
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import lombok.Data;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+@Entity
+public class User {
+
+}
